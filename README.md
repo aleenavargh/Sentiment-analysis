@@ -62,7 +62,7 @@ Additional steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/amazon_sentiment_analysis.git
+   git clone [https://github.com/aleenavargh/Sentiment-analysis.git]
    cd amazon_sentiment_analysis
    ```
 
