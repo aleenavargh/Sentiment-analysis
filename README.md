@@ -1,5 +1,5 @@
 # Sentiment Analysis and Modeling for Amazon Reviews
-
+Video Link: https://vimeo.com/997828157?share=copy
 ## Project Overview
 
 This project focuses on sentiment analysis of Amazon reviews using advanced natural language processing (NLP) techniques and machine learning models, including deep learning models like BERT (Bidirectional Encoder Representations from Transformers) and LSTM (Long Short-Term Memory). The primary objective is to classify the sentiment of product reviews as positive or negative based on their textual content.
